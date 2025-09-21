@@ -98,7 +98,7 @@ author_profile: true
       <div class="timeline-node"></div>
         <div class="content">
                 <h3>你好, PKU</h3>
-                <span class="time">2022 秋</span>
+                <span class="time">2024 秋</span>
                 <p>入燕园，初窥计算机语言与 Github</p>
         </div>
     </div>
