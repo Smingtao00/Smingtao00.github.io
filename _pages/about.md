@@ -17,7 +17,6 @@ I'm a second year undergraduate student from [School of Engineering](https://www
 The website is still under construction. Codes and course notEs are uploading quickly.
 
 <h2>Pageviews</h2>
-在你修改之前, 这里不是你的网站的访问信息
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=TotgUc16tGNawSb8uG8ApnWC8tMLjeLuiR0R0d9Wb8w'></script>
 <h2>Contact me</h2>
 
