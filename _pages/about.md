@@ -17,8 +17,9 @@ I'm a second year undergraduate student from [School of Engineering](https://www
 The website is still under construction. Codes and course notEs are uploading quickly.
 
 <h2>Pageviews</h2>
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=TotgUc16tGNawSb8uG8ApnWC8tMLjeLuiR0R0d9Wb8w'></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=XESpz6yFtW0ICD7bPsc9zoqgsR3-xz79FfHAq17qeps&cl=ffffff&w=a"></script>
 <h2>Contact me</h2>
+
 
 
 [Email](mailto:2400011018@stu.pku.edu.cn) / [Github](https://github.com/Smingtao00) / [Wechat](../images/wechat.png) 
