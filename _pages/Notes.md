@@ -107,8 +107,6 @@ author_profile: true
 
 
 
-## 111
-
 {% assign paths = "nameofthemd.md" | split: "," %}
 
 {% for post in site.Notes reversed %}
