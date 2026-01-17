@@ -14,7 +14,7 @@ I'm a second year undergraduate student from [School of Engineering](https://www
 
 <!--You can find my CV here: [Curriculum Vitae](../assets/Curriculum_Vitae.pdf).-->
 
-The website is still under construction. Codes and course notEs are uploading quickly.
+The website is still under construction. Codes and course notes are uploading quickly.
 
 <h2>Pageviews</h2>
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=XESpz6yFtW0ICD7bPsc9zoqgsR3-xz79FfHAq17qeps&cl=ffffff&w=a"></script>
